@@ -38,3 +38,16 @@ I can turn this into a kaggle/blog post later.
 Number of links they put.
 Frequency of words.
 Frequency of n-grams.
+
+
+6 columns: text, created_at, retweet_count, favorite_count, is_retweet, id_str
+
+
+Trump: 5186 rows
+Biden: 3092 rows (but this includes beyond December 31.) Biden doesn't tweet as much.
+Need to filter and get the amount of biden tweets since dec_31 then update
+
+
+
+Binary classifier can use the entire data,
+But to do the text analysis, I can focus on Since December 31.
