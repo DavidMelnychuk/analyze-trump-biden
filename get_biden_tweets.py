@@ -16,7 +16,7 @@ api = tweepy.API(auth)
 # 3200 is the maximum number of tweets available from a twitter user timeline
 num_tweets = 3200
 
-biden_tweets_csv = open('biden2.csv', 'w', encoding="utf_8_sig", newline='')
+biden_tweets_csv = open('biden.csv', 'w', encoding="utf_8_sig", newline='')
 csv_writer = csv.writer(biden_tweets_csv)
 csv_writer.writerow(['text', 'created_at', 'retweet_count', 'favorite_count', 'is_retweet', 'id_str'])
 biden_tweets = []
