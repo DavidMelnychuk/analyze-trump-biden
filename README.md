@@ -7,4 +7,4 @@ Datasets include the tweet text, creation date, retweet count, favorite_count, a
 Reply count unfortunately not included since it is a premium Twitter API feature. 
 
 ## Analysis
-Analysis work found in analyze_tweets.ipynb
+Analysis work found in analyze_tweets.ipynb. Run and read through this notebook to execute project files.
