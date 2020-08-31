@@ -1,4 +1,4 @@
-# Analyzing 2020 Presidential Candidate Tweets since the Coronavirus Pandemic
+# Analyzing 2020 Presidential Candidate Tweets during the COVID-19 pandemic
 ## Data
 Data for both candidates includes tweets from December 31 2019 to August 9 2020. 
 Trump data taken from the [trump twitter archive](http://www.trumptwitterarchive.com/archive).  
