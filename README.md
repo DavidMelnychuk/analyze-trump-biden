@@ -4,9 +4,9 @@ Data for both candidates includes tweets from December 31 2019 to August 9 2020.
 Trump data taken from the [trump twitter archive](http://www.trumptwitterarchive.com/archive).  
 Biden data extracted from the Twitter API using [Tweepy](https://www.tweepy.org/). Code can be found in get_biden_tweets.py.
 
-## Running the notebook
-All code can be found in analyze_tweets.ipynb. 
-To run the notebook,
+## Analysis
+All code can be found in analyze_tweets.ipynb. You can view the notebook right inside GitHub!
+If you'd like to run the notebook yourself,
 
 clone the repo: `git clone https://github.com/DavidMelnychuk/analyze-trump-biden.git`
 
