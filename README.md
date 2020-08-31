@@ -13,10 +13,13 @@ clone the repo: `git clone https://github.com/DavidMelnychuk/analyze-trump-biden
 create a virtual environment and install the requirements:
 
 ```
-cd analyze-trump-biden
-virtualenv venv
-source venv/bin/activate
-pip3 install -r requirements.txt
+cd analyze-trump-biden 
+
+virtualenv venv 
+
+source venv/bin/activate 
+
+pip3 install -r requirements.txt 
 ```
 
 Run jupyter notebook and then open analyze-tweets.ipynb: `jupyter notebook`
